@@ -6,13 +6,48 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=e5JcW4UAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 20px;">
+  <!-- Left Column: Image -->
+  <div style="flex: 1; min-width: 200px; margin-right: 20px; display: flex; justify-content: center; align-items: center;">
+    <img src="../images/HoVLE.png" alt="HoVLE" style="width: 100%; height: auto;">
+  </div>
+
+  <!-- Right Column: Text -->
+  <div style="flex: 2; min-width: 300px; justify-content: center; align-items: center;">
+    <h3>HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding</h3>
+    Tao, C.*, <strong>Su, S.*</strong>, Zhu, X.*, Zhang, C., Chen, Z., Liu, J., ... & Dai, J.<br>
+    Preprint, 2024 / <a href="https://arxiv.org/abs/2412.16158">Paper</a> / <a href="https://huggingface.co/OpenGVLab/HoVLE">Model</a><br>
+    HoVLE is a high-performance monolithic Vision-Language Model that uses a insightful holistic embedding module to effectively integrate vision and language, outperforming previous models.
+  </div>
+</div>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 20px;">
+  <!-- Left Column: Image -->
+  <div style="flex: 1; min-width: 200px; margin-right: 20px; display: flex; justify-content: center; align-items: center;">
+    <img src="../images/defocus.pdf" alt="Data Scaling Laws" style="width: 100%; height: auto;">
+  </div>
+
+  <!-- Right Column: Text -->
+  <div style="flex: 2; min-width: 300px; justify-content: center; align-items: center;">
+    <h3>Learning 1D Causal Visual Representation with De-focus Attention Networks</h3>
+    Tao, C.*, Zhu, X.*, <strong>Su, S.*</strong>, Lu, L., Tian, C., Luo, X., ... & Dai, J.<br>
+    <a href="https://neurips.cc/virtual/2024/poster/95557">NeurIPS 2024</a> / <a href="https://arxiv.org/abs/2406.04342">Paper</a> / <a href="https://github.com/OpenGVLab/De-focus-Attention-Networks">Code</a><br>
+    De-focus Attention Networks are introduced to address the “over-focus” issue in 1D causal vision models by using several inspiring ideas, enabling 1D causal vision models to match 2D models in performance.
+  </div>
+</div>
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
+
+<!-- {% include base_path %} -->
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -30,7 +65,7 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
+{% endif %} -->
 
 
 
