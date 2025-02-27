@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the [Department of Electronic Engineering](https://ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), where I am fortunate to be advised by [Prof. Jifeng Dai](https://jifengdai.org). I completed my bachelor's degree in the [Department of Physics](https://physics.tsinghua.edu.cn/) at Tsinghua in 2024. Additionally,I was an exchange student at the [Department of Information Technology and Electrical Engineering](https://ee.ethz.ch) at [ETH Zürich](https://ethz.ch/en.html) in 2023.
+I am a first-year Ph.D. student in the [Department of Electronic Engineering](https://ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), where I am fortunate to be advised by [Prof. Jifeng Dai](https://jifengdai.org). I am also doing research intern at [SenseTime Research](https://www.sensetime.com/en) since 2024.
+
+I completed my bachelor's degree in the [Department of Physics](https://physics.tsinghua.edu.cn/) at Tsinghua in 2024. Additionally,I was an exchange student at the [Department of Information Technology and Electrical Engineering](https://ee.ethz.ch) at [ETH Zürich](https://ethz.ch/en.html) in 2023.
 
 My research focuses on multi-modal models and embodied intelligence within the realms of deep learning and computer vision. This field continuously presents new challenges and opportunities for innovation, and I am excited to contribute to the community’s efforts in realizing Artificial General Intelligence (AGI).
 
@@ -20,8 +22,9 @@ I believe AI has the potential to revolutionize how people interact with one ano
 
 News
 ======
-* <span style="font-family: 'Courier New', Courier, monospace;">**2024/07**</span> : Graduated from Tsinghua University with a bachelor's degree in Mathematics and Physics, and awarded **Excellent Graduate Student** (top 1.5%).
+
 * <span style="font-family: 'Courier New', Courier, monospace;">**2024/09**</span> : Joined Fundamental Vision Group as a Ph.D. student 🎉🎉.
+* <span style="font-family: 'Courier New', Courier, monospace;">**2024/07**</span> : Graduated from Tsinghua University with a bachelor's degree in Mathematics and Physics, and awarded **Excellent Graduate Student** (top 1.5%).
 
 <br>
 <!-- <hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;"> -->
