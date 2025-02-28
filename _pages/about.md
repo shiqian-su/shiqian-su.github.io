@@ -42,7 +42,7 @@ Selected Publications
   <div style="flex: 2; justify-content: center; align-items: center;">
     <h3>HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding</h3>
     Tao, C.*, <strong>Su, S.*</strong>, Zhu, X.*, Zhang, C., Chen, Z., Liu, J., ... & Dai, J.<br>
-    Preprint, 2024 / <a href="https://arxiv.org/abs/2412.16158">Paper</a> / <a href="https://huggingface.co/OpenGVLab/HoVLE">Model</a><br>
+    CVPR 2025 / <a href="https://arxiv.org/abs/2412.16158">Paper</a> / <a href="https://huggingface.co/OpenGVLab/HoVLE">Model</a><br>
     <!-- HoVLE is a high-performance monolithic Vision-Language Model that uses a insightful holistic embedding module to effectively integrate vision and language, outperforming previous models. -->
   </div>
 </div>
