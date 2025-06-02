@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the [Department of Electronic Engineering](https://ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), where I am fortunate to be advised by [Prof. Jifeng Dai](https://jifengdai.org). I am also doing research intern at [SenseTime Research](https://www.sensetime.com/en) since 2024.
+I am a first-year Ph.D. student in the [Department of Electronic Engineering](https://ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), where I am fortunate to be advised by [Prof. Jifeng Dai](https://jifengdai.org). I am also doing research intern at Miromind since 2025.
 
 I completed my bachelor's degree in the [Department of Physics](https://physics.tsinghua.edu.cn/) at Tsinghua in 2024. Additionally,I was an exchange student at the [Department of Information Technology and Electrical Engineering](https://ee.ethz.ch) at [ETH Zürich](https://ethz.ch/en.html) in 2023.
 
@@ -31,6 +31,21 @@ News
 
 Selected Publications
 ======
+
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 20px;">
+  <!-- Left Column: Image -->
+  <div style="flex: 1; min-width: 200px; margin-right: 20px; display: flex; justify-content: center; align-items: center;">
+    <img src="../images/zerogui.png" alt="ZeroGUI" style="width: 100%; height: auto;">
+  </div>
+
+  <!-- Right Column: Text -->
+  <div style="flex: 2; justify-content: center; align-items: center;">
+    <h3>ZeroGUI: Automating Online GUI Learning at Zero Human Cost</h3>
+    Yang, C.*, <strong>Su, S.*</strong>, Liu, S.*, Dong, X.*, Yu, Y.*, Su, W.*, ... & Dai, J.<br>
+    Preprint / <a href="https://arxiv.org/abs/2505.23762">Paper</a> / <a href="https://huggingface.co/OpenGVLab/ZeroGUI-OSWorld-7B">Model</a> / <a href="https://github.com/OpenGVLab/ZeroGUI?tab=readme-ov-file">Code</a><br>
+    <!-- Intro -->
+  </div>
+</div>
 
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 20px;">
   <!-- Left Column: Image -->
