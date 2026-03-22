@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the [Department of Electronic Engineering](https://ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), where I am fortunate to be advised by [Prof. Jifeng Dai](https://jifengdai.org).
+I am a second-year Ph.D. student in the [Department of Electronic Engineering](https://ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), where I am fortunate to be advised by [Prof. Jifeng Dai](https://jifengdai.org).
 
 I have completed my bachelor's degree in the [Department of Physics](https://physics.tsinghua.edu.cn/) at Tsinghua in 2024. Additionally,I was an exchange student at the [Department of Information Technology and Electrical Engineering](https://ee.ethz.ch) at [ETH Zürich](https://ethz.ch/en.html) in 2023. I've served as an AI Research Intern at MiroMind (2025–2026), where I primarily focused on Agent framework development and frontier research.
 
@@ -42,8 +42,8 @@ Selected Works
   <!-- Right Column: Text -->
   <div style="flex: 2; justify-content: center; align-items: center;">
     <h3>MiroFlow: Towards High-Performance, Robust, and Open-Source Reproducible Agent Framework for General Research Tasks</h3>
-    MiroMind Team, as <strong>core contributor</strong><br>
-    <a href="https://miromind.ai/blog/miroflow">Blog</a> / <a href="https://github.com/MiroMindAI/Miroflow">GitHub</a> / <a href="https://dr.miromind.ai">Demo</a><br>
+    <strong>MiroMind Team</strong>, as first core contributor<br>
+    Preprint / <a href="https://arxiv.org/abs/2602.22808">Paper</a> / <a href="https://miromind.ai/blog/miroflow">Blog</a> / <a href="https://github.com/MiroMindAI/Miroflow">GitHub</a> / <a href="https://dr.miromind.ai">Demo</a><br>
     <!-- Intro -->
   </div>
 </div>
