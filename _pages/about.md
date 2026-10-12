@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the [Department of Electronic Engineering](https://ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), where I am fortunate to be advised by [Prof. Jifeng Dai](https://jifengdai.org).
+I am a third-year Ph.D. student in the [Department of Electronic Engineering](https://ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), where I am fortunate to be advised by [Prof. Jifeng Dai](https://jifengdai.org).
 
-I have completed my bachelor's degree in the [Department of Physics](https://physics.tsinghua.edu.cn/) at Tsinghua in 2024. Additionally,I was an exchange student at the [Department of Information Technology and Electrical Engineering](https://ee.ethz.ch) at [ETH Zürich](https://ethz.ch/en.html) in 2023. I've served as an AI Research Intern at MiroMind (2025–2026), where I primarily focused on Agent framework development and frontier research.
+I have completed my bachelor's degree in the [Department of Physics](https://physics.tsinghua.edu.cn/) at Tsinghua in 2024. Additionally,I was an exchange student at the [Department of Information Technology and Electrical Engineering](https://ee.ethz.ch) at [ETH Zürich](https://ethz.ch/en.html) in 2023. 
 
-My research focuses on multi-modal models and agents within the realms of deep learning, computer vision and LLM. These fields continuously present new challenges and opportunities for innovation, and I am excited to contribute to the community’s efforts in realizing Artificial General Intelligence.
+I now serve as an AI Research Intern at [Naive AI](https://naive.ai/), founded in early 2026 and aiming to develop intelligent self-improving systems. I was also with MiroMind during 2025, where I primarily focused on Agent framework development and other frontier research.
 
-Feel free to explore our team and works at: [Lab's website](https://fundamentalvision.github.io/)
+My research focuses on LLM training algorithms and agent systems. These fields continuously present new challenges and opportunities, and I am excited to contribute to the community’s efforts in realizing a better HUMAN future with the help of AI.
 
-I believe AI has the potential to revolutionize how people interact with one another and the world around them. The future is full of possibilities, and I am enthusiastic about exploring startup opportunities. If you are interested in this field, don’t hesitate to get in touch!
+I believe AI has the potential to revolutionize how human civilization works, pushing civilization intelligence far beyond humanity's. The future is full of possibilities, and I am also enthusiastic about exploring startup opportunities. If you are interested in this field, don’t hesitate to get in touch!
 
 <!-- <hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;"> -->
 
